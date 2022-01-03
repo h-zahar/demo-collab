@@ -14,7 +14,7 @@
 
 ### Other Time:
 
-<!-- - git checkout main -->
+- git checkout main
 - git pull origin main
 - git checkout <branch_name>
 - git add . ; git commit -m “...”
