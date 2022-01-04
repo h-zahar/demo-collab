@@ -17,5 +17,6 @@
 - git checkout main
 - git pull origin main
 - git checkout <branch_name>
+- git pull origin main
 - git add . ; git commit -m “...”
 - git push origin <branch_name>
